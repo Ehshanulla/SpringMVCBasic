@@ -16,7 +16,7 @@
         <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
         <property name="url" value="jdbc:mysql://localhost:3306/users_db"/>
         <property name="username" value="root"/>
-        <property name="password" value="Yoyohoney@786"/>
+        <property name="password" value=""/>
     </bean>
 
     <!-- JdbcTemplate Bean -->
